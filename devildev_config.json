@@ -1,0 +1,23 @@
+{
+  "combo_file": "C:/Users/devil/OneDrive/Desktop/as.txt",
+  "keyword_file": "C:/Users/devil/OneDrive/Desktop/checkerler/hotmail/Yeni Metin Belgesi.txt",
+  "thread_count": 20,
+  "tg_token": "",
+  "tg_chat": "",
+  "theme": "Dark",
+  "sound": false,
+  "language": "tr",
+  "color_theme": "red",
+  "window_x": 534,
+  "window_y": 54,
+  "window_width": 1300,
+  "window_height": 900,
+  "proxy": "",
+  "sound_choice": "beep",
+  "log_to_file": false,
+  "checkpoint_enabled": true,
+  "proxy_file": "",
+  "checkpoint_interval": 50,
+  "max_retry": 3,
+  "tray_enabled": true
+}
